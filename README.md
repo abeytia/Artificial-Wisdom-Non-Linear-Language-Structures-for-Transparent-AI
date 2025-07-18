@@ -33,9 +33,9 @@ This project is currently conceptual and does not require a training dataset or 
 However, future directions may involve:  
 ```
 def main():
- * Arabic corpora with root–pattern tagging                                                     # 32
-* Japanese stroke-based Kanji datasets                                                         # 33
-* Open models using interpretable architectures and modified tokenization                      # 34
+ * Arabic corpora with root–pattern tagging                                                    
+* Japanese stroke-based Kanji datasets                                                         
+* Open models using interpretable architectures and modified tokenization                     
   (e.g., [SPLINTER](https://arxiv.org/abs/2503.14433))   
    
 ```
