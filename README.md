@@ -39,8 +39,6 @@ This project is currently conceptual and does not require a training dataset or 
 * Arabic corpora with root–pattern tagging
 * Japanese stroke-based Kanji datasets
 * Open models using interpretable architectures and modified tokenization (e.g., [SPLINTER](https://arxiv.org/abs/2503.14433))
-
-| Language     | Structure           | 
    
 ```
 
