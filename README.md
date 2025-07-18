@@ -32,11 +32,15 @@ It can guide how AI systems are developed and evaluated—particularly in multil
 This project is currently conceptual and does not require a training dataset or build pipeline.# 30
 However, future directions may involve:  
 ```
-def main():
- * Arabic corpora with root–pattern tagging                                                    
-* Japanese stroke-based Kanji datasets                                                         
-* Open models using interpretable architectures and modified tokenization                     
-  (e.g., [SPLINTER](https://arxiv.org/abs/2503.14433))   
+## Data sources and AI methods
+
+This project is currently conceptual and does not require a training dataset or build pipeline. However, future directions may involve:
+
+* Arabic corpora with root–pattern tagging
+* Japanese stroke-based Kanji datasets
+* Open models using interpretable architectures and modified tokenization (e.g., [SPLINTER](https://arxiv.org/abs/2503.14433))
+
+| Language     | Structure           | 
    
 ```
 
